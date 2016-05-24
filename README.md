@@ -1,0 +1,1 @@
+# keen_image_ckeditor
